@@ -1,0 +1,11 @@
+{
+  "name": "tello-x",
+  "version": "1.0.0",
+  "description": "Dashboard Tello-X",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fadli mukhtarif",
+  "license": "ISC"
+}
